@@ -1,2 +1,2 @@
-# Travel
-Doniyorbek, Samandar, Muhammaddiyor ning saytdan olingan parchasi.
+# Holiday
+Doniyorbek, Samandar va Muhammaddiyor ning "HOLIDAY" nomli saytning Header qismi.
